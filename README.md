@@ -1,8 +1,9 @@
 ## Hi there 👋
+</br>
+I am Claire, i am a new beignner in coding. </br>
+I started to learn coding in April 2024,</br>
+so let's see what will happend together 👀💪</br>
 
-I am Claire, i am a new beignner in coding. 
-I started to learn coding in April 2024,
-so let's see what will happend together 👀💪
 
 
 
