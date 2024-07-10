@@ -1,12 +1,19 @@
 ## Hi there 👋
 </br>
-I am Claire, i am a new beignner in coding. </br>
-I started to learn coding in April 2024,</br>
-so let's see what will happend together 👀💪</br>
-
-
-
-
+I am Claire, i based in Taichung, Taiwan. 
+I am a new beignner in coding. </br>
+I started to learn coding in April 2024 with online bootcamp, </br>
+<i>before that i only tried to use python to do some webcrawling and playing with swift</i> </br>
+so .... let's see what will happend 👀💪</br>
+</br>
+</br>
+🌱 Currently Leanring :</br>
+HTML / CSS / Javascript </br>
+</br>
+</br>
+Any recommendation for learning is welcome 👯😄
+</br>
+</br>
 <!--
 **clairehuang77777/clairehuang77777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
