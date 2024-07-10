@@ -1,6 +1,5 @@
 ## Hi there 👋
 </br>
-I am Claire, i based in Taichung, Taiwan. 
 I am a new beignner in coding. </br>
 I started to learn coding in April 2024 with online bootcamp, </br>
 <i>before that i only tried to use python to do some webcrawling and playing with swift</i> </br>
