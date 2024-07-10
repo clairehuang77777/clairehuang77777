@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I am Claire, i am a new beignner in coding. 
+I started to learn coding in April 2024,
+so let's see what will happend together 👀💪
+
+
+
 <!--
 **clairehuang77777/clairehuang77777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
