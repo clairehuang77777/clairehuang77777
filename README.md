@@ -9,7 +9,11 @@ so .... let's see what will happend 👀💪</br>
 🌱 Currently Leanring :</br>
 HTML / CSS / Javascript </br>
 </br>
+Tools: </br>
+FontAwsome / Bootstrap </br>
 </br>
+Backend: </br>
+Node.JS / Express </br>
 Any recommendation for learning is welcome 👯😄
 </br>
 </br>
