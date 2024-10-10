@@ -1,10 +1,10 @@
 ## Hi there 👋
 </br>
 I am a new beignner in coding. </br>
-I started to learn coding in April 2024 with online bootcamp, </br>
-<i>before that i only tried to use python to do some webcrawling and playing with swift</i> </br>
-so .... let's see what will happend 👀💪</br>
-</br>
+I started Alpha Camp bookcamp in April 2024</br>
+Now I am a Full-Time online student</br>
+My Goal is to becom a Full Time Remore Front-End Developer in 2025</br>
+Keep it on, and let's see what will happened 👀💪</br>
 </br>
 🌱 Currently Leanring :</br>
 HTML / CSS / Javascript </br>
