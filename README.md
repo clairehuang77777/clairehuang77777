@@ -1,7 +1,8 @@
 ## Hi there 👋
 </br>
 I am a new beignner in coding. </br>
-I started Alpha Camp bookcamp in April 2024</br>
+I started Alpha Camp bootcamp in April 2024</br>
+Before this, I am a UX planner and Product Owner</br>
 Now I am a Full-Time online student</br>
 My Goal is to becom a Full Time Remore Front-End Developer in 2025</br>
 Keep it on, and let's see what will happened 👀💪</br>
@@ -10,13 +11,15 @@ Keep it on, and let's see what will happened 👀💪</br>
 HTML / CSS / Javascript </br>
 </br>
 Tools: </br>
-FontAwsome / Bootstrap </br>
+Bootstrap </br>
 </br>
 Backend: </br>
 Node.JS / Express </br>
 Any recommendation for learning is welcome 👯😄
 </br>
 </br>
+</br>
+ </br> 
 <!--
 **clairehuang77777/clairehuang77777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
