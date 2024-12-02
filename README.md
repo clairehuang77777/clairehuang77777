@@ -16,11 +16,11 @@ Bootstrap </br>
 </br>
 Backend: </br>
 Node.JS / Express </br>
-Any recommendation for learning is welcome 👯😄
 </br>
 Frontend: <br>
 React</br>
 </br>
+Any recommendation for learning is welcome 👯😄
  </br> 
 <!--
 **clairehuang77777/clairehuang77777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
