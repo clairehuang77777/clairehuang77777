@@ -1,24 +1,12 @@
 ## Hi there 👋
 </br>
-I am a new beignner in coding. </br>
-I started Alpha Camp bootcamp in April 2024</br>
-Before this, I am a UX planner and Product Owner</br>
+Hello, I am Claire </br>
+I started Alpha Camp bootcamp in June 2024</br>
+Before doing this, I am a UX planner and Product Owner</br>
 Now I am a Full-Time online student</br>
-My Goal is to becom a Full Time Remore Front-End Developer in 2025</br>
+My Goal is to becom a Full Time Remote Front-End Developer in 2025</br>
 Keep it on, and let's see what will happened 👀💪</br>
 </br>
-🌱 Currently Leanring :</br>
-HTML / CSS / Javascript </br>
- 
-</br>
-Tools: </br>
-Bootstrap </br>
-</br>
-Backend: </br>
-Node.JS / Express </br>
-</br>
-Frontend: <br>
-React</br>
 </br>
 Any recommendation for learning is welcome 👯😄
  </br> 
