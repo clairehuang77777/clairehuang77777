@@ -2,7 +2,7 @@ Hi! 👋 I'm Claire
 ---
 - 🎓 Currently a developer bootcamp student, aspiring to become a frontend developer.
 - 💡 Passionate about learning new technologies in both frontend and backend development.
-- 🔨 Love building things and turning ideas into reality.
+- 🔨 Insteresting in building things and turning ideas into reality.
 <br/>
 <br/>
 
