@@ -1,6 +1,6 @@
 Hi! 👋 I'm Claire
 ---
-- 🎓 Currently a developer bootcamp student, aspiring to become a frontend developer.
+- 🎓 Frontend Developer with a background in product management and UX.
 - 💡 Passionate about learning new technologies in both frontend and backend development.
 - 🔨 Insteresting in building things and turning ideas into reality.
 <br/>
